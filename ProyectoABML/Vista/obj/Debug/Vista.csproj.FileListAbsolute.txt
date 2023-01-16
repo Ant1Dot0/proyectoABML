@@ -8,3 +8,6 @@ C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.csproj.GenerateReso
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.exe
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.pdb
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.AltaArticulo.resources
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.MDIParent1.resources
